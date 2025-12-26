@@ -1,0 +1,18 @@
+body {
+            background-color: #f4f6f9;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .card {
+            border-radius: 10px;
+        }
+
+        .card-hover:hover {
+            transform: translateY(-3px);
+            transition: 0.3s ease;
+        }
+
+        .highlight {
+            background-color: #e9f2ff !important;
+            font-weight: 600;
+        }
